@@ -47,7 +47,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Xande025/Xande025/output/snake.svg" alt="Snake animation" />
-
-###
