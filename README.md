@@ -40,9 +40,10 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Xande025&show_icons=true&theme=dracula&count_private=true&hide=commits" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xande025&layout=compact&theme=dracula&langs_count=6" height="170" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com?user=Xande025&theme=dracula&hide_border=false" height="170" alt="GitHub Streak" />
   <br />
-  <img src="https://streak-stats.demolab.com?user=Xande025&theme=dracula&hide_border=false" height="170" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xande025&layout=compact&theme=dracula&langs_count=6" height="170" alt="Top Languages" />
+
 </div>
 
 ---
